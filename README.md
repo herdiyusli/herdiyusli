@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hallo Semua! 👋
 
-<!--
-**herdiyusli/herdiyusli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Herdi Yusli, I am Extremely motivated to constantly develop my creativity. I'm a person who is timely in completing tasks, easy to socialize, highly committed, and more importantly I likes to put forward the facts. I have an interest in web development and mobile development.\
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/herdi-yusli/) \
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+<a href="https://github.com/gilangadhan">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=herdiyusli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=herdiyuslilayout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
