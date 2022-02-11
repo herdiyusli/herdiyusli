@@ -1,4 +1,4 @@
-### Hallo Semua! 👋
+### Hi there! 👋
 
 
 My name is Herdi Yusli, I am Extremely motivated to constantly develop my creativity. I'm a person who is timely in completing tasks, easy to socialize, highly committed, and more importantly I likes to put forward the facts. I have an interest in web development and mobile development.
