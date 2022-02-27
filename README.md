@@ -2,7 +2,6 @@
 
 
 My name is Herdi Yusli, I'm informatics student at gunadarma university. I'm a person who is timely in completing tasks, easy to socialize, highly committed, and more importantly I likes to put forward the facts. I have an interest in web development and mobile development.
-- 📫 Reach me: [Linkedin](https://www.linkedin.com/in/herdi-yusli/) 
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
